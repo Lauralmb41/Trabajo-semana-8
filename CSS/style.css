@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+h1{
+    color: #289C77;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+
+.caja{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+
+.subrayado{
+    text-decoration: underline;
+}
+
+.caja p{
+    text-align: justify;
+    margin-top: 10px;
+}
+
+
+h3{
+    color: blue;
+    margin-top: 20px;
+}
+
+h5{
+    color: blue;
+    margin-left: 130px;
+    margin-top: 15px;
+}
+
+table, th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td{
+    padding: 4px;
+}
+
+th{
+    color: #CFA330;
+}
+
+td{
+    color: #26991D;
+}
+
+.parrafo{
+    color: #97910C;
+}
+
+.red{
+    color: red;
+}
+
+.span{
+    font-weight: 600;
+    color: red;
+}
+
+.subrayado{
+    color: red;
+    text-decoration: underline;
+}
+
+.azul{
+    color: blue;
+    text-decoration: underline;
+}
+
+.rosado{
+    color: rgb(221, 60, 87);
+}
+
+.verde{
+    text-decoration: underline;
+    color: green;
+}
